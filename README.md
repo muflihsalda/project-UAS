@@ -30,4 +30,4 @@ Fungsi main adalah titik masuk program. Ini mengatur alur utama program, termasu
 
 
 # Link Youtube Vidio Dekumentasi
-
+https://youtu.be/U19dBwKXYQQ?si=hACYIbczRA_Mp1sA 
